@@ -1,3 +1,38 @@
 body {
-  background: lightblue;
+  background-color: #e0e0eb;
+}
+
+.centered {
+  text-align: center;
+}
+
+p {
+  background-color: #f0f0f5
+}
+
+h1 {
+  font-family: Georgia;
+  font-size: 42px;
+  font-weight: bold;
+  text-align: center;
+  color: #303548;
+}
+
+h3 {
+  font-family: Hevetica;
+  font-size: 25px;
+  color: #BB6C6C;
+}
+
+.feature-box {
+  margin: 20px;
+  background-color: #DED7D7;
+  border: #303548 dashed 2px;
+}
+
+#motto {
+  color: #AA7D5C;
+}
+img {
+  border: #303548 solid 10px;
 }
